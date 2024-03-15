@@ -1,6 +1,6 @@
 {
     "name": "ezqueuejs",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A very easy and lightweight JavaScript library for working with Queue data structure.",
     "main": "dist/ezqueue.js",
     "scripts": {
