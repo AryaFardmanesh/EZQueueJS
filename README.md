@@ -15,7 +15,7 @@ EZQueueJS is licensed under the [MIT License](LICENSE).
 - **Lightweight**: With minimal dependencies and efficient implementation, EZQueueJS offers high performance while keeping your project's footprint small.
 - **Flexibility**: EZQueueJS is highly adaptable and can be easily integrated into various JavaScript projects, from small scripts to large-scale applications.
 
-Whether you're a beginner learning about data structures or an experienced developer needing a reliable tool for managing linked lists, EZQueueJS is here to simplify your workflow and empower your projects.
+Whether you're a beginner learning about data structures or an experienced developer needing a reliable tool for managing queue, EZQueueJS is here to simplify your workflow and empower your projects.
 
 ## Installation
 
