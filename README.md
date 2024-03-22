@@ -26,16 +26,16 @@ npm install ezqueuejs
 ```
 
 ```js
-// Import the LinkedList class from EZListJS
+// Import the Queue class from EZQueueJS
 const { Queue } = require('ezqueuejs');
 
-// Create a new linked list
+// Create a new queue
 const queue = new Queue();
 ```
 
 ## Method Documentation
 
-EZQueueJS provides a variety of methods for creating, modifying, and interacting with linked lists. Below is an overview of the available methods along with their descriptions and usage examples:
+EZQueueJS provides a variety of methods for creating, modifying, and interacting with queue. Below is an overview of the available methods along with their descriptions and usage examples:
 
 ### `.enqueue(item)`
 
@@ -90,7 +90,7 @@ This method pours all the data of the queue into an array and returns it.
 #### Returns:
 
 - `Array`.
-    - An array of all elements in the array
+    - An array of all elements in the queue.
 
 ### `.toReverseArray()`
 
